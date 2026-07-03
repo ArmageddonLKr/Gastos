@@ -2,6 +2,8 @@
 
 App instalável (PWA) de controle de gastos pessoais, feito para celular.
 
+🔗 **App publicado:** https://armageddonlkr.github.io/Gastos/
+
 - Perfil local (nome, moeda, meta de renda) — sem necessidade de servidor ou conta.
 - Receitas e despesas por categoria, com orçamento mensal por categoria.
 - Dashboard com saldo do mês, gráfico de gastos por categoria e histórico.
